@@ -1,5 +1,5 @@
 # Verification-aware Speech Recognition
-Case study of CNN-based speech recognition evaluated with neural network verifiers for robustness analysis. This repository contains code associated with the paper:  
+A case study of CNN-based speech recognition evaluated with neural network verifiers for robustness analysis. This repository contains code associated with the paper:  
 **Verification-Aware Convolution Neural Networks for Speech Recognition: A Case Study**,   
 *Syed Ali Asadullah Bukhari, Barak A. Pearlmutter, and Rosemary Monahan*  *Formal Methods in Software Engineering (Formalise'26), 2026 (To Appear)*, DOI: https://doi.org/10.1145/3793656.3793683
 
@@ -27,7 +27,10 @@ The project follows a sequential pipeline:
 - `00_dataset_spectrogram.py` – Conversion to spectrograms  
 
 ### 2. Model Training
-- `01_training.py` – Training CNN-based speech recognition models  
+- `01_training.py` – Training CNN-based speech recognition models
+
+### 3. Verification
+- `TBA` – TBA 
 
 ---
 
