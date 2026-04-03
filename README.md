@@ -21,7 +21,7 @@ This repository demonstrates:
 The project follows a sequential pipeline:
 
 ### 1. Data Preparation
-- `00_dataset.py` – Initial dataset preparation  
+- `00_dataset.py` – Initial dataset download and preparation  
 - `00_dataset_1_sec.py` – Audio segmentation into 1-second clips  
 - `00_dataset_downsample.py` – Downsampling audio signals  
 - `00_dataset_spectrogram.py` – Conversion to spectrograms  
